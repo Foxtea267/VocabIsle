@@ -10,4 +10,4 @@ Android / iOS / Windows / Linux / HarmonyOS (PC+Mobile) / macOS / Web
 
 Software: Flutter
 
-Web: PHP+MariaDB
+Web: Nextjs+PHP+MariaDB
